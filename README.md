@@ -100,6 +100,31 @@ http://localhost:3000
 
 ---
 
-# 📸 Preview
+---
 
-Add screenshots or a short GIF showcasing your portfolio.
+# 🚀 Future Enhancements
+
+- Dark/Light theme toggle
+- Blog section
+- Project filtering and search
+- Interactive project case studies
+- AI-powered chatbot assistant
+- Multi-language support
+- Performance and accessibility improvements
+
+---
+
+# 📬 Contact
+
+I'd love to connect! Feel free to reach out through any of the platforms below.
+- 💻 **GitHub:** https://github.com/sandhya8595
+- 📧 **Email:** isandhya891@gmail.com
+
+---
+
+# 🙏 Acknowledgements
+
+This portfolio was designed in **Figma** and developed using modern web technologies including **Next.js**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. It reflects my passion for creating responsive, interactive, and user-centric web experiences.
+
+---
+
